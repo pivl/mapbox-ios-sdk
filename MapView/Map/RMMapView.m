@@ -188,11 +188,6 @@
     RMAnnotation *_draggedAnnotation;
     CGPoint _dragOffset;
 
-    CLLocationManager *_locationManager;
-
-    RMAnnotation *_accuracyCircleAnnotation;
-    RMAnnotation *_trackingHaloAnnotation;
-
     UIImageView *_userHeadingTrackingView;
 
     RMUserTrackingBarButtonItem *_userTrackingBarButtonItem;
